@@ -1,0 +1,18 @@
+Nom,Signification,Format,Obligatoire,Calculée
+titre_article,Titre de l'article,Texte,Oui,Non
+resume_article,Résumé de l'article,Texte,Non,Non
+contenu_article,Contenu de l'article,HTML,Oui,Non
+image_couverture_article,Image de couverture,"Image",Non,Non
+date_publication_article,Date de publication,Date,Oui,Non
+temps_lecture_article,Durée de lecture,Entier,Non,Oui
+statut_article,État de publication,"Liste",Oui,Non
+categorie_article,Catégorie de l'article,"Liste",Oui,Non
+article_precedent,Article précédent,Texte,Non,Oui
+article_suivant,Article suivant,Texte,Non,Oui
+nom_categorie,Nom de la catégorie,Texte,Oui,Non
+description_categorie,Description de la catégorie,Texte,Non,Non
+couleur_categorie,Couleur de la catégorie,"Texte",Oui,Non
+nom_complet_auteur,Nom complet de l'auteur,Texte,Oui,Non
+photo_profil_auteur,Photo de profil,"Image",Non,Non
+email_administrateur,Email de connexion,Email,Oui,Non
+mot_de_passe_administrateur,Mot de passe,Password,Oui,Non
